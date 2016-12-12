@@ -2,6 +2,8 @@
 
 AngularJS module that uses SVG to create a circular progressbar
 
+![Clock Example](/img/progressbar_clock_example.jpg?raw=true "")
+
 ## [Demo](http://crisbeto.github.io/angular-svg-round-progressbar/)
 
 ## Install
